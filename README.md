@@ -7,5 +7,5 @@ My [profile](https://www.codeeval.com/profile/Stickman%20Jack/).
 * Python 3.4
 
 ## Unit Testing Framework:
-* [Catch](https://github.com/philsquared/Catch/blob/master/docs/tutorial.md)
+* [Catch](https://github.com/philsquared/Catch)
 
