@@ -5,9 +5,10 @@ Date: 11/9/2016
 
 Unit testing for fibonacciSeries.cpp
 */
-#define CATCH_CONFIG_MAIN
+
+#include "catchConfig.hpp"
 #include "catch.hpp"
-#include "test_fibonacciSeries.h"
+#include "test_fibonacciSeries.hpp"
 
 TEST_CASE("Fibonacci numbers are computed", "[fibonacci]") {
 	REQUIRE(computeFib(1) == 1);
