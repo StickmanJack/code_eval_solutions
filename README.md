@@ -1,6 +1,5 @@
 # CodeEval Solutions
-Solutions to completed challenges on [CodeEval.com](http://codeeval.com/).
-My [profile](https://www.codeeval.com/profile/Stickman%20Jack/).
+Solutions to completed challenges on CodeEval.com, which no longer exists.
 
 ## Languages: 
 * g++ 5.2.0 (c++ 11)
